@@ -42,6 +42,14 @@ These dependencies are declared in `pom.xml`:
 | Maven                            | Build & dependency management         |
 
 ---
+## ▶️ How to Run
+
+### 🔧 Prerequisites
+
+- Java 17+
+- Maven 3.6+
+
+---
 
 ## 📂 Project Structure
 
@@ -55,4 +63,6 @@ SpringSecurity1/
 │       └── resources/
 │           ├── application.properties
 │           └── templates/  (optional if using Thymeleaf)
-├── pom.xml
+├── pom.xml 
+
+
