@@ -16,6 +16,21 @@ This project demonstrates how to secure a Spring Boot application using **Spring
 
 ---
 
+## 📦 Dependencies Used
+
+These dependencies are declared in `pom.xml`:
+
+| Dependency                                 | Purpose                                                        |
+|--------------------------------------------|----------------------------------------------------------------|
+| `spring-boot-starter-security`             | Provides Spring Security features like authentication, filters |
+| `spring-boot-starter-web`                  | Enables building RESTful web applications                      |
+| `spring-boot-starter-thymeleaf`            | Adds Thymeleaf template engine for frontend                    |
+| `thymeleaf-extras-springsecurity6`         | Adds Spring Security tags to Thymeleaf (e.g. `sec:authorize`)  |
+| `spring-boot-starter-test`                 | Standard testing support with JUnit, Mockito                   |
+| `spring-security-test`                     | Adds testing utilities for Spring Security                     |
+
+---
+
 ## 🛠️ Technologies Used
 
 | Technology                       | Description                           |
